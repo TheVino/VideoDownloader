@@ -1,4 +1,4 @@
-# Auto Accept Queue
+# Video Downloader
 
 ## **Context**
 If you're afraid of searching on Google for a video downloader and land on a website with lots of **virus**, or even worse.. you download a **malware** together with your video 💀.

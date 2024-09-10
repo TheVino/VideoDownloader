@@ -20,7 +20,7 @@ Using pytube package to request the **download** and Custom Tk Inter for a **cle
 <img src="https://imgur.com/oMCL4sP.png" alt="drawing" width="400"/>
 
 ### Example
-When you insert a link and clink on download, it will start:
+When you insert a link and click on download, it will start:
 ![](https://imgur.com/SNS6xJE.png)
 93% Downloading 
 

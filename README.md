@@ -21,11 +21,12 @@ Using pytube package to request the **download** and Custom Tk Inter for a **cle
 
 ### Example
 When you insert a link and click on download, it will start:
-![](https://imgur.com/SNS6xJE.png)
 93% Downloading 
+![](https://imgur.com/SNS6xJE.png)
 
+100% Downloaded and saved on root folder
 ![](https://imgur.com/3kOPUAK.png)
-100% Donwloaded and saved on root folder
+
 
 ![](https://imgur.com/VxHdNgF.png)
 This is the output on *cmd*
